@@ -1,5 +1,5 @@
 {
-  "name": "gminer.js.js",
+  "name": "gminer.js",
   "version": "1.0.0",
   "description": "A JavaScript library for interacting with the GMiner API",
   "main": "index.js",
