@@ -39,7 +39,7 @@ exports.Client = class Client {
         method: "GET",
         url: this.#buildURL(path),
         headers: {
-          "User-Agent": `2miners.js ${require("../package.json").version} (https://github.com/LockBlock-dev/gminer.js)`,                  
+          "User-Agent": `gminer.js ${require("../package.json").version} (https://github.com/LockBlock-dev/gminer.js)`,                  
           "Content-Type": "application/json",
           "Accept-Encoding": "UTF8",
         }

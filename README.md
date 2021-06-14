@@ -1,16 +1,16 @@
-# GMiners.js
+# GMiner.js
 
-Made with [![axios](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/gminers.js/axios)](https://www.npmjs.com/package/axios)
+Made with [![axios](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/gminer.js/axios)](https://www.npmjs.com/package/axios)
 
-[![GitHub stars](https://img.shields.io/github/stars/LockBlock-dev/gminers.js.svg)](https://github.com/LockBlock-dev/gminers.js/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/LockBlock-dev/gminer.js.svg)](https://github.com/LockBlock-dev/gminer.js/stargazers)
 
-gminers.js is a Node.js module that allows you to easily interact with the GMiners API.
+gminer.js is a Node.js module that allows you to easily interact with the GMiner API.
 
 • Promise based
 
 • Performant
 
-• 100% coverage of the GMiners API
+• 100% coverage of the GMiner API
 
 
 ## Installation
@@ -21,7 +21,7 @@ With GitHub :
 
 • Download the project or clone it
 
-• Go to the gminers.js folder and do `npm install`
+• Go to the gminer.js folder and do `npm install`
 
 • Require the [index.js](/index.js)
 
@@ -29,7 +29,7 @@ With NPM :
 
 • Download the project
 
-• Do `npm install gminers.js`
+• Do `npm install gminer.js`
 
 • Require the library
 
@@ -44,7 +44,7 @@ See the [API documentation](/API.md).
 ### Using the library
 
 ```js
-const { Client } = require("gminers.js")
+const { Client } = require("gminer.js")
 
 const client = new Client(port) //example : 5555 (must be a number)
 
@@ -67,7 +67,7 @@ The library is async, be sure to use [async functions](https://developer.mozilla
 
 ## Credits
 
-[GMiners](https://github.com/develsoftware/GMinerRelease)
+[GMiner](https://github.com/develsoftware/GMinerRelease)
 
 
 ## Copyright
