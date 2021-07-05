@@ -1,8 +1,8 @@
 # GMiner.js
 
-Made with [![axios](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/gminer.js/axios)](https://www.npmjs.com/package/axios)
+[![axios](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/gminer.js/axios)](https://www.npmjs.com/package/axios)
 
-[![GitHub stars](https://img.shields.io/github/stars/LockBlock-dev/gminer.js.svg)](https://github.com/LockBlock-dev/gminer.js/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/LockBlock-dev/gminer.js.svg)](https://github.com/LockBlock-dev/gminer.js/stargazers) ![npm](https://img.shields.io/npm/dm/gminer.js)
 
 gminer.js is a Node.js module that allows you to easily interact with the GMiner API.
 
