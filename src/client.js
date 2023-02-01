@@ -42,7 +42,6 @@ exports.Client = class Client {
         headers: {
           "User-Agent": `gminer.js ${pkg.version} (https://github.com/LockBlock-dev/gminer.js)`,                  
           "Content-Type": "application/json",
-          "Accept-Encoding": "UTF8",
         }
       }
 
